@@ -13,4 +13,4 @@
 
 |          [Erick F.](https://github.com/Nic-Developer)          |
 | :------------------------------------------------------------: |
-| ![](https://avatars.githubusercontent.com/u/89043140?s=60&v=4) |
+| ![](https://avatars.githubusercontent.com/u/93430083?v=4) |
