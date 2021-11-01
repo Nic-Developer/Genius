@@ -11,6 +11,10 @@
 
 - Site do Curso: [Digital Inovation One](https://web.digitalinnovation.one/home)
 
-|          [Erick F.](https://github.com/Nic-Developer)          |
-| :------------------------------------------------------------: |
-| ![](https://avatars.githubusercontent.com/u/93430083?v=4) |
+---
+
+### **Desenvolvido por:**
+
+|        [Erick F.](https://github.com/Nic-Developer)         |
+| :---------------------------------------------------------: |
+| ![](https://avatars.githubusercontent.com/u/93430083?s=100) |
